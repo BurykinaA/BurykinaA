@@ -11,7 +11,7 @@
 
 ###
 
-- 🌱 I’m currently studing **at Tinkoff ML&DL Courses**
+- 🌱 I’m currently studing at **Tinkoff ML&DL Courses**
 
 - 👨‍💻 All of my projects are available at [https://github.com/BurykinaA](https://github.com/BurykinaA)
 
