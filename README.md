@@ -40,12 +40,3 @@
 </div>
 
 ---
-
-
-###
-
-<br clear="both">
-
-![snake gif](https://github.com/BurykinaA/BurykinaA/blob/output/github-contribution-grid-snake.svg)
-
-###
