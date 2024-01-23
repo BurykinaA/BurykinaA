@@ -1,4 +1,9 @@
-<h1 align="center">Hi 👋, I'm Alina and I'm a 20 y.o ML&DL developer, from Moscow</h1>
+<h1 align="center">Hi 👋, I'm Alina</h1>
+
+**My telegram**: [Alina Burykina](https://t.me/burykinaa)
+
+**My curriculum vitae**: [CV]()
+</br>
 
 ###
 
