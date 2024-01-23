@@ -16,11 +16,13 @@
 
 ###
 
-- 🌱 I’m currently studing at **Tinkoff ML&DL Courses**
 
-- 👨‍💻 All of my projects are available at [https://github.com/BurykinaA](https://github.com/BurykinaA)
-
-- 📫 How to reach me **@BurykinaA**
+- 👨‍💻 Additionally, I have pursued learning opportunities at:
+  - Avito Academy of Analysts
+  - CMF Graduate Program
+  - Tinkoff Generation
+  - Free University Moscow
+  - JSC CROC Incorporated
 
 
 ###
