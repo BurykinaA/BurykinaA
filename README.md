@@ -57,11 +57,3 @@ Occasionally, I flourish in hackathons, igniting imagination and uncovering inve
   - Free University Moscow
   - JSC CROC Incorporated
 
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false&username=burykinaa" height="150" alt="languages graph"  />
-</div>
-
-###
