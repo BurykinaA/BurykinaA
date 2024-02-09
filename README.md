@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Alina</h1>
 
+ML enjoer with over 1.5 years of expertise in AI, including Time Series, NLP and CV.
+Sometimes I thrive in hackathons, sparking creativity and finding innovative solutions to challenges. From designing autonomous systems to experimenting with cutting-edge tech, I love pushing the boundaries of what humanity can do. 🚀
+
 **My telegram**: [Alina Burykina](https://t.me/burykinaa)
 
 **My curriculum vitae**: [CV](https://drive.google.com/file/d/1U9axSIsI4iPLcQqR33SDmlF8WJMbX-34/view?usp=sharing)
