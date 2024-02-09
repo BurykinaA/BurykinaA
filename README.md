@@ -2,7 +2,7 @@
 
 **My telegram**: [Alina Burykina](https://t.me/burykinaa)
 
-**My curriculum vitae**: [CV]()
+**My curriculum vitae**: [CV](https://drive.google.com/file/d/1U9axSIsI4iPLcQqR33SDmlF8WJMbX-34/view?usp=sharing)
 </br>
 
 ###
