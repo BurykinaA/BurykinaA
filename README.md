@@ -32,6 +32,7 @@ Occasionally, I flourish in hackathons, igniting imagination and uncovering inve
 ###
 
 ## 🎉 My achievements
+  - Winner of IT Purple Hack
   - Winner of the International Hackathon Digital Breakthrough, Skoltech
   - Winner of the All-Russian Hackathon on Biometrics
   - Winner of INNOGLOBALHACK
