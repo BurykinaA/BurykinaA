@@ -32,6 +32,9 @@ Occasionally, I flourish in hackathons, igniting imagination and uncovering inve
 ###
 
 ## 🎉 My achievements
+  - Winner of All-Russian Olympiad ITMO in "Artificial Intelligence" and "Software Engineering and Computer techologies"
+  - Report was awarded at the XXXI International Conference of Students, Postgraduate Students and Young Scientists “Lomonosov”
+  - Winner of Burning Heroes AI for Humanity Hackathon
   - Winner of IT Purple Hack
   - Winner of the International Hackathon Digital Breakthrough, Skoltech
   - Winner of the All-Russian Hackathon on Biometrics
