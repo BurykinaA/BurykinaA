@@ -2,7 +2,7 @@
 
 Machine learning engineer
 
-Fields of interest: LLMs, VLMs, Diffusion
+**Fields of interest**: LLMs, VLMs, Diffusion
 
 **My telegram**: [Alina Burykina](https://t.me/burykinaa)
 </br>
