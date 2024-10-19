@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Alina</h1>
 
-ML enjoyer with over 2.5 years of expertise in AI.
+Machine learning engineer
 
-Occasionally, I flourish in hackathons, igniting imagination and uncovering inventive answers to obstacles. Whether it's crafting autonomous systems or delving into the cutting-edge technology, I relish pushing the limits of human capability. 🚀
+Fields of interest: LLMs, VLMs, Diffusion
 
 **My telegram**: [Alina Burykina](https://t.me/burykinaa)
 </br>
