@@ -4,7 +4,7 @@ Machine learning engineer
 
 **Fields of interest**: LLMs, VLMs, Diffusion
 
-**My telegram**: [Alina Burykina](https://t.me/burykinaa)
+**My telegram**: [Viktoria Burykina](https://t.me/burykinaa)
 
 </br>
 
