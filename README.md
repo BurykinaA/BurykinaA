@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alina</h1>
+<h1 align="center">Hi 👋, I'm Vika</h1>
 
 Machine learning engineer
 
