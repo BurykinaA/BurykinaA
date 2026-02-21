@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Vika</h1>
+<h1 align="center">Hi 👋</h1>
 
 Machine learning engineer
 
 **Fields of interest**: LLMs, VLMs, Diffusion
 
-**My telegram**: [Viktoria Burykina](https://t.me/burykinaa)
+**My telegram**: [BurykinaA](https://t.me/burykinaa)
 
 </br>
 
